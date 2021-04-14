@@ -69,6 +69,8 @@
     - Random Forest Regressor: R2 Score = 0.85
     - Xgboost: R2 Score = 0.60
 
+ - Random Forest is the best model for this dataset because few values are index (trend based movement and not actual values)  while others are actual values, because random forest creates mutplie trees to create a yes no structure based on probability, it must be able to deduce the connection in more deeper manner.
+
 ## Notes 
  - Deeper analysis can be done by income of households, type of families and their background, other factors like type of schools (public or private) etc.
  - Study can be done from city based on aggregate to county and aggregating to analysis state wise trends.
