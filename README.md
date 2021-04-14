@@ -48,8 +48,8 @@
 
   - House price index has highest positive corelation with units of houses in nation, with increase in houses on market prices increase, indicating with that even though there was dip in house price after 2008 crisis people felt housing market was still a good investemnt choice
   - House price index have negative corelation with Mortgage rate, with increase in Mortgage rate, demand reducese hence house price reduces.
-  - House price index also increase lead to increase in rent prices. 
-  - House price index has negative corelation with unemployment rate. Since people have no jobs, demand reduces hence price of house reduces.
+  - Increase in House price index also lead to increase in rent prices. 
+  - House price index has negative corelation with unemployment rate. Since people have no jobs, demand reduces hence price of houses reduces.
 
 
 ## Model Building
