@@ -6,11 +6,11 @@
 ## Data
 
  - Data is considered only for period between 2000 and 2018.
- - Unemployment rate is calculated by taking average of values from 2000 to 2018.
  - House price index is from 2000 to 2018 provided by S&P/Case-Shiller U.S. National Home Price Index.
 
  ***Assumptions***
- - Main objective of this EDA is to find relation between house price index and other factors hence some assumptions are made.
+ - Main objective of this EDA is to find relation between house price index and other factors hence some assumptions are made by taking yearly average and considering monthly values to constant for a year.
+
 
  - More information for the data can be found on US goverment official websites.
    
