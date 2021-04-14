@@ -23,10 +23,11 @@
    ![Screenshot](https://github.com/9harshit/us-housing-supply-demand-analysis/blob/main/1.png)
 
    
-   - Average hosue price in the country increased steadily over the the before 2008 hosuing crisis.
-   - During 2009 house price valuation of the house decreased steeply.
-   - Prices kept decresing for next 3 years.
-   - Prices started stablising in 2012 and after that kept increasing year by year.
+   - Average hosue price in the country increased steadily after 2011, after reducing steeply because of 2008 housing crisis.
+   - Prices started stablising in 2011 and after that kept increasing year by year.
+   - Increase in Unemployment and reduction in average family income led to decrease in house price
+   - No. of house built between 2008-2012 are low in comparision to no. house built before and after this time period.
+   - Rental price of house was not affected by factor and kept increasing year by year, with only slight reduction during 2009-2010 period.
 
    ### Average Rent in US over 10 years
 
@@ -45,10 +46,10 @@
     The correlation between a house price index and the Average Unemployment Rate is: -0.29934893638623483
     The correlation between a house price index and the No of Housing Units is: 0.7576064599077678
 
-  - House price has highest corelation with price per sqaure feet naturally and least with hospital rating in the area.
-  - House price have good relation with schools displaying hosue buyers tendacy to buy house near schools.
-
-  - Further plotting also shows that large and poplulus state like Texas and California have highest number of hospitals and school. But Median income of Texas is less than California which is why house prices in Texas is less in comparision California, but more in comparision to other state with similar income. (Diagram present in python notebook.)
+  - House price index has highest positive corelation with units of houses in nation, with increase in houses on market prices increase, indicating with that even though there was dip in house price after 2008 crisis people felt housing market was still a good investemnt choice
+  - House price index have negative corelation with Mortgage rate, with increase in Mortgage rate, demand reducese hence house price reduces.
+  - House price index also increase lead to increase in rent prices. 
+  - House price index has negative corelation with unemployment rate. Since people have no jobs, demand reduces hence price of house reduces.
 
 
 ## Model Building
