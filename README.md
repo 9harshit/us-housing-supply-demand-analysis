@@ -6,6 +6,7 @@
 ## Data
 
  - Data is considered only for period between 2000 and 2018.
+ - Features : House Price Index, Mortgage Index, Rental Price, Housing Units in Nation, Unemployment Rate, Average Family Income. All these factors affect the supply and demand of the House price in nation.
  - House price index is from 2000 to 2018 provided by S&P/Case-Shiller U.S. National Home Price Index.
 
  ***Assumptions***
@@ -70,7 +71,8 @@
 
 ## Notes 
  - Deeper analysis can be done by income of households, type of families and their background, other factors like type of schools (public or private) etc.
- - Study can be done from city based on aggregate to county and aggregating to analysis state wise trends
+ - Study can be done from city based on aggregate to county and aggregating to analysis state wise trends.
+ - Tracking future or current developments in an area can also help in predicting future house price treds.
 
 ***Raw Dataset present in the repo. Only housing unit dataset was created manaully because the file was getting corrupted when imported using pandas***
 ***ALL dataset are downloaded from official USA government sites
